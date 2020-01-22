@@ -1,0 +1,72 @@
+/*
+    Assignment 1
+   
+    Robyn's landing page
+    Student Name: Goh Si Huay 
+    Admin No:   P7381550
+
+    Filename: rh_overlay3.css
+
+    This file contains the overlay styles used by the Contact page in the website
+
+*/
+
+
+/* Article Styles */
+
+article.form {
+    padding-top: 140px;
+    line-height: 1.5rem;
+}
+
+
+/* Header Styles */
+
+h1 {
+    margin-bottom: 1.5rem;
+}
+
+
+/* Textarea styles */
+
+textarea.message {
+    width: 99%;
+    min-height: 150px;
+    height: flex;
+}
+
+
+/* Fieldset styles */
+
+fieldset {
+    border-color: #FF8618;
+    border-style: dotted;
+    border-width: 1px;
+}
+
+
+/* Paragraph styles */
+
+p {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+
+/* form validation changes */
+
+.white {
+    background-color: white;
+    border-bottom: none;
+}
+
+.error {
+    border-bottom: 1px solid red;
+    background-color: rgba(255, 0, 0, 0.2);
+    ;
+}
+
+.errorMsg {
+    color: red;
+    font-style: italic;
+}
