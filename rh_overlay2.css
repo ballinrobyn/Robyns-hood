@@ -1,0 +1,29 @@
+/*
+    Assignment 1
+   
+    Robyn's landing page
+    Student Name: Goh Si Huay 
+    Admin No:   P7381550
+
+    Filename: rh_overlay1.css
+
+    This file contains the overlay styles used by the Bio page in the website
+
+*/
+
+
+/* Article Styles */
+
+article.bio {
+    padding-top: 140px;
+    line-height: 1.5rem;
+    padding-bottom: 2.5rem;
+}
+
+
+/* Header Styles */
+
+h1 {
+    line-height: 120%;
+    margin-bottom: 1.5rem;
+}
