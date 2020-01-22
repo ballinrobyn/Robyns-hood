@@ -1,0 +1,28 @@
+/*
+    Assignment 1
+   
+    Robyn's landing page
+    Student Name: Goh Si Huay 
+    Admin No:   P7381550
+
+    Filename: rh_overlay4.css
+
+    This file contains the overlay styles used by the Portfolio page in the website
+
+*/
+
+
+/* Article Styles */
+
+article.portfolio {
+    padding-top: 140px;
+    line-height: 1.5rem;
+    padding-bottom: 2.5rem;
+}
+
+
+/* Header Styles */
+
+h1 {
+    margin-bottom: 1.5rem;
+}
