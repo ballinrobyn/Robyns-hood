@@ -1,0 +1,50 @@
+/*
+    Assignment 1
+   
+    Robyn's landing page
+    Student Name: Goh Si Huay 
+    Admin No:   P7381550
+
+    Filename: rh_overlay1.css
+
+    This file contains the overlay styles used by the homepage in the website
+
+*/
+
+
+/* Welcome Message Style */
+
+img.welcomemsg {
+    max-width: 80%;
+    padding-top: 10%;
+    float: right;
+}
+
+div.welcomemsg {
+    width: 90%;
+    /* max-height: 90%; */
+    display: relative;
+}
+
+
+/* Header Styles */
+
+h1 {
+    line-height: 0em;
+}
+
+
+/* Column Styles */
+
+div[class^="col-"] {
+    float: left;
+    padding: none;
+}
+
+div.col-1-3 {
+    width: 40%;
+}
+
+div.col-2-3 {
+    width: 60%;
+}
